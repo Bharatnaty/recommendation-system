@@ -20,3 +20,6 @@ api referencs:<br>https://scikit-learn.org/stable/modules/classes.html <br>
 
 ![newplot](https://user-images.githubusercontent.com/47810389/128459744-4728c692-df9d-4d7c-a7ef-fea913326ec8.png)
 
+![newplot (1)](https://user-images.githubusercontent.com/47810389/128459862-fe6909fa-3730-4191-b213-946774f54e33.png)
+
+![newplot (2)](https://user-images.githubusercontent.com/47810389/128459898-c50d6b97-6514-4915-ac5e-3a90925e9773.png)
