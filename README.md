@@ -18,4 +18,5 @@ tutorials:<br>https://scikit-learn.org/stable/tutorial/index.html  <br>
 api referencs:<br>https://scikit-learn.org/stable/modules/classes.html <br>
 
 
-<rect class="nsewdrag drag" data-subplot="xy" x="80" y="100" width="452" height="343" style="fill: transparent; stroke-width: 0; pointer-events: all;"></rect>
+![newplot](https://user-images.githubusercontent.com/47810389/128459744-4728c692-df9d-4d7c-a7ef-fea913326ec8.png)
+
