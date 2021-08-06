@@ -9,10 +9,10 @@ This is Front End of recommendation system
 
 Streamlit Documntation
 https://docs.streamlit.io/en/stable/                     <br>
-tutorial:https://docs.streamlit.io/en/stable/main_concepts.html
-api referencs:https://docs.streamlit.io/en/stable/api.html
-
+tutorial:https://docs.streamlit.io/en/stable/main_concepts.html  <br>
+api referencs:https://docs.streamlit.io/en/stable/api.html  <br>
+<br>
 sklearn Documentation
-https://scikit-learn.org/stable/
-tutorials:https://scikit-learn.org/stable/tutorial/index.html
-api referencs:https://scikit-learn.org/stable/modules/classes.html
+https://scikit-learn.org/stable/     <br>
+tutorials:https://scikit-learn.org/stable/tutorial/index.html  <br>
+api referencs:https://scikit-learn.org/stable/modules/classes.html <br>
