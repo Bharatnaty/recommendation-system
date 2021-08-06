@@ -7,12 +7,12 @@ https://www.kaggle.com/bharatnatrayn/movies-dataset-for-feature-extracion-predic
 This is Front End of recommendation system
 ![IMG_20210806_094245](https://user-images.githubusercontent.com/47810389/128456272-a99a3fde-e58d-4c4a-be3d-6144ddf6b745.png)
 
-Streamlit Documntation
+Streamlit Documntation: <br>
 https://docs.streamlit.io/en/stable/                     <br>
-tutorial:https://docs.streamlit.io/en/stable/main_concepts.html  <br>
-api referencs:https://docs.streamlit.io/en/stable/api.html  <br>
+tutorial:<br>https://docs.streamlit.io/en/stable/main_concepts.html  <br>
+api referencs:<br>https://docs.streamlit.io/en/stable/api.html  <br>
 <br>
-sklearn Documentation
+sklearn Documentation:<br>
 https://scikit-learn.org/stable/     <br>
-tutorials:https://scikit-learn.org/stable/tutorial/index.html  <br>
-api referencs:https://scikit-learn.org/stable/modules/classes.html <br>
+tutorials:<br>https://scikit-learn.org/stable/tutorial/index.html  <br>
+api referencs:<br>https://scikit-learn.org/stable/modules/classes.html <br>
